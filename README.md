@@ -13,16 +13,28 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves buildi
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Science & AI/ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
@@ -89,24 +101,28 @@ A sleek and functional Spotify-inspired music streaming web app that mimics key 
 ```javascript
 const pratyush = {
     name: "Pratyush Shankar",
-    role: "Full-Stack Developer & AI Enthusiast",
-    code: ["JavaScript", "Python", "HTML", "CSS"],
+    role: "Full-Stack Developer & Data Science Enthusiast",
+    code: ["JavaScript", "Python", "Java", "C++", "C", "SQL"],
     technologies: {
-        frontend: ["React", "TailwindCSS", "Responsive Design"],
-        backend: ["Python", "Fuzzy Logic Systems"],
+        frontend: ["React", "TailwindCSS", "HTML5", "CSS3"],
+        backend: ["Node.js", "Python"],
+        databases: ["MongoDB", "MySQL", "SQL"],
+        dataScience: ["Pandas", "NumPy", "Matplotlib", "Fuzzy Logic"],
         tools: ["Git", "VS Code", "GitHub"]
     },
-    currentFocus: "Building intelligent web applications with AI integration",
-    funFact: "I love combining AI algorithms with beautiful user interfaces!"
+    currentFocus: "Building intelligent full-stack applications with data-driven insights",
+    funFact: "I love combining algorithms, data analysis, and beautiful user interfaces!"
 };
 ```
 
 ### 🎯 Areas of Expertise
-- **Full-Stack Web Development** - Modern, responsive web applications
-- **AI/ML Integration** - Fuzzy logic systems and intelligent algorithms  
-- **Frontend Technologies** - React, TailwindCSS, modern JavaScript
-- **UI/UX Design** - Creating intuitive and engaging user experiences
-- **Problem Solving** - Building practical solutions for real-world challenges
+- **Full-Stack Development** - Modern web applications with MERN stack
+- **Data Science & Analytics** - Python, Pandas, Matplotlib for data insights
+- **Database Management** - MongoDB, MySQL, and SQL optimization
+- **Backend Development** - Node.js APIs and server-side applications
+- **Programming Fundamentals** - Strong foundation in C, C++, and Java
+- **AI/ML Integration** - Fuzzy logic systems and intelligent algorithms
+- **Frontend Technologies** - React, TailwindCSS, responsive design
 
 ## 🌟 What Makes My Projects Special
 
@@ -132,6 +148,6 @@ const pratyush = {
   <img src="https://komarev.com/ghpvc/?username=Pratyush181&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **⭐ Star my repositories if you find them interesting!**
+  **📍Hyderabad/Jaipur, India | 🎓 Btech. IT @ MUJ **
   
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 </div>
