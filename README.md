@@ -30,6 +30,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves buildi
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI]((https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi))
 
 ### Data Science & AI/ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -41,6 +42,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves buildi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Editor-009EFF)
 
 ## 🏆 Featured Projects
 
